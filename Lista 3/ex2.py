@@ -1,4 +1,7 @@
-#ex1 - aula 4 
+'''
+7) (Adaptado Boratti, 2007) Faça um programa para calcular o volume de uma esfera de raio 'r'.
+O usuário deverá entrar com o raio desejado e deverá ser gerado o retorno do volume.
+'''
 
 import math 
 

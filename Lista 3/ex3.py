@@ -1,4 +1,15 @@
-# ex 2 - aula 4
+'''
+8) Faça um programa que calcule a média do aluno, em que:
+• Média_P1 = Nota_da_P1 70% + Nota_do_Trabalho 30%.
+• Média_P2 = Nota_da_P2 80% + Nota_do_Trabalho 20%.
+• Média_Final = Média_P1 40% + Média_P2 60%.
+E condição de aprovação da Média_Final:
+• Nota >= 7,0 → Aprovado;
+• Nota < 7,0 e >= 5,0 → Exame;
+• Nota < 5,0 → Reprovado.
+Ao final retorne: Média_P1, Média _P2, Média_Final, e a sua respectiva condição. O usuário
+terá que entrar com as notas P1, T1, P2 e T2.
+'''
 
 np1 = float(input("Nota P1: "))
 nt1 = float(input("Nota T1: "))
